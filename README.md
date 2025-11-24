@@ -9,9 +9,10 @@ Amaliy misollar orqali matn uzunligini aniqlash, matnni o‘zgartirish, kesib ol
 
 JavaScript’da string bilan ishlash uchun **ko‘plab qulay metodlar** mavjud. Ulardan eng ko‘p ishlatiladigani quyidagilar:
 
-### 1️⃣ length  
+``` 
+1️⃣ length  
 String uzunligini qaytaradi.
-```javascript
+javascript
 const text = "Hello";
 console.log(text.length); // 5
 
